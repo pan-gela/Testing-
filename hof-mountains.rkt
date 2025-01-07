@@ -1,13 +1,7 @@
 ;; The first three lines of this file were inserted by DrRacket. They record metadata
 ;; about the language level of this file in a form that our tools can easily process.
 #reader(lib "htdp-intermediate-lambda-reader.ss" "lang")((modname hof-mountains) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor mixed-fraction #f #t none #f () #t)))
-;;
-;; ***************************************************
-;; Angela Pu (21128573)
-;; CS 135 Fall 2024
-;; Assignment 09, Q4
-;; ***************************************************
-;;
+
 
 
 ;; 4a
